@@ -64,4 +64,4 @@ Determine the sum of all integers which are the sum of exactly one of the 50-ele
 
 Basic thing to spot in solving this is that you can iterate over the number of possible values (as the sum of i^2 between i=50 and 100 is 295425), rather than the horrificly large number for 100C50, given in the description. My solution builds up a solution table dynamically.
 
-Correct solution found in ~1.505ms (2.4GHz processor, compiled with MSVC with O2 flag). Have not made an effort to make the program more variable (ie allowing user to input the number of squares/subset size), but have provided the compiled binaries.
+Correct solution (115039000) found in ~1.505ms (2.4GHz processor, compiled with MSVC with O2 flag). Have not made an effort to make the program more variable (ie allowing user to input the number of squares/subset size), but have provided the compiled binaries.
