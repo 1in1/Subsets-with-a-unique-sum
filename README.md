@@ -11,11 +11,17 @@ Consider the set B = {1,3,6,8,10,11}.
 There are 20 subsets of B containing three elements, and their sums are:
 
 sum({1,3,6}) = 10,
+
 sum({1,3,8}) = 12,
+
 sum({1,3,10}) = 14,
+
 sum({1,3,11}) = 15,
+
 sum({1,6,8}) = 15,
+
 sum({1,6,10}) = 17,
+
 sum({1,6,11}) = 18,
 
 sum({1,8,10}) = 19,
